@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("alert('React goes here');\r\n\n\n//# sourceURL=webpack:///./src/app/index.js?");
+eval("throw new Error(\"Module parse failed: Unexpected token (6:15)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n| class App extends Component {\\n|     render() {\\n>         return <h1>Hello world</h1>;\\n|     }\\n| }\");\n\n//# sourceURL=webpack:///./src/app/index.js?");
 
 /***/ })
 
